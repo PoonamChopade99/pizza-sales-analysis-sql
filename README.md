@@ -18,7 +18,7 @@ This project focuses on analyzing pizza sales data using SQL to uncover trends, 
 - Category Performance : To identify the most popular and revenue-generating categories.
 
 ## Dataset Structure
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![DataSet](https://github.com/PoonamChopade99/pizza-sales-analysis-sql/blob/main/data%20structure.png)
 
 ## Tools and Technologies Database
 - Database: MySQL Workbench
